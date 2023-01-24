@@ -7,7 +7,7 @@
    -- change file path in the prepropess_data.py and run
 > python prepropess_data.py
 
-If you do not wish to train the model, you can download our pre-trained model and save it in res/cp.
+If you do not wish to train the model, you can download [pre-trained model](https://drive.google.com/file/d/154JgKpzCPW82qINcVieuPH3fZ2e0P812/view) and save it in res/cp.
 
 # evaluate using GPU
 python test.py
