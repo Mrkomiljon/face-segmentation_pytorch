@@ -12,9 +12,14 @@ If you do not wish to train the model, you can download [pre-trained model](http
 # evaluate using GPU
 python test.py
 ## Results
-Segmented Face
+                         Segmented Face
+                          
 ![1](https://user-images.githubusercontent.com/92161283/214226581-91c4b672-2c4a-48b6-afe3-962ebe31837b.png)
-Segmented Mask only face
+
+
+                         Segmented Mask only face
 ![1](https://user-images.githubusercontent.com/92161283/214226827-b01cd1a0-f385-4aca-8a37-eaeda47fe4b6.png)
-Segmented face not crop
+
+
+                         Segmented face not crop
 ![1](https://user-images.githubusercontent.com/92161283/214226925-d7f06fbd-ff03-4054-8942-6e9f21c497f7.png)
