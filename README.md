@@ -21,5 +21,5 @@ python test.py
 ![1](https://user-images.githubusercontent.com/92161283/214226827-b01cd1a0-f385-4aca-8a37-eaeda47fe4b6.png)
 
 
-                         Segmented face not crop
+                         Segmented face not croped
 ![1](https://user-images.githubusercontent.com/92161283/214226925-d7f06fbd-ff03-4054-8942-6e9f21c497f7.png)
