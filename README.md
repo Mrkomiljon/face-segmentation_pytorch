@@ -1,5 +1,16 @@
 # face-segmentation.Pytorch
+## 🔥 Getting Started
+### 1. Clone the code and prepare the environment
+```bash
+git clone https://github.com/Mrkomiljon/Webcam_Live_Portrait.git
+cd Webcam_Live_Portrait
 
+# create env using conda
+conda create -n face-segmentation python==3.9.18
+conda activate LivePortrait
+# install dependencies with pip
+pip install -r requirements.txt
+```
 
 ## Training
 + 1.Prepare training data: -- download [CelebAMask-HQ dataset](https://github.com/switchablenorms/CelebAMask-HQ)
