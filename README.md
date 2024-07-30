@@ -2,8 +2,8 @@
 ## 🔥 Getting Started
 ### 1. Clone the code and prepare the environment
 ```bash
-git clone https://github.com/Mrkomiljon/Webcam_Live_Portrait.git
-cd Webcam_Live_Portrait
+git clone https://github.com/Mrkomiljon/face-segmenteation.Pytorch.git
+cd face-segmenteation.Pytorch
 
 # create env using conda
 conda create -n face-segmentation python==3.9.18
