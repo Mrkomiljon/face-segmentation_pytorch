@@ -1,4 +1,4 @@
-# face-segmentation.Pytorch
+# face-segmentation_pytorch
 ## 🔥 Getting Started
 ### 1. Clone the code and prepare the environment
 ```bash
