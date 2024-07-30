@@ -10,7 +10,7 @@ conda create -n face-segmentation python==3.9.18
 conda activate face-segmentation
 ```
 
-## Training
+## 🔥 Training
 + 1.Prepare training data: -- download [CelebAMask-HQ dataset](https://github.com/switchablenorms/CelebAMask-HQ)
 
    -- change file path in the prepropess_data.py and run
@@ -18,11 +18,11 @@ conda activate face-segmentation
 
 If you do not wish to train the model, you can download [pre-trained model](https://drive.google.com/file/d/154JgKpzCPW82qINcVieuPH3fZ2e0P812/view) and save it in res/cp.
 
-# Evaluate using GPU
+# 🔥 Evaluate using GPU
 ```bash
 python test.py
 ```
-## Results
+## 🔥 Results
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/92161283/214219180-64441ea6-1da5-456f-9ea4-0acb4094ecb3.png" width="400" />
