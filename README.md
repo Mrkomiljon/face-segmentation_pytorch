@@ -8,8 +8,6 @@ cd face-segmentation_pytorch
 # create env using conda
 conda create -n face-segmentation python==3.9.18
 conda activate face-segmentation
-# install dependencies with pip
-pip install -r requirements.txt
 ```
 
 ## Training
@@ -20,8 +18,10 @@ pip install -r requirements.txt
 
 If you do not wish to train the model, you can download [pre-trained model](https://drive.google.com/file/d/154JgKpzCPW82qINcVieuPH3fZ2e0P812/view) and save it in res/cp.
 
-# evaluate using GPU
+# Evaluate using GPU
+```bash
 python test.py
+```
 ## Results
 
 <div align="center">
