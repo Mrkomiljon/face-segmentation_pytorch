@@ -2,12 +2,12 @@
 ## 🔥 Getting Started
 ### 1. Clone the code and prepare the environment
 ```bash
-git clone https://github.com/Mrkomiljon/face-segmenteation.Pytorch.git
-cd face-segmenteation.Pytorch
+git clone https://github.com/Mrkomiljon/face-segmentation_pytorch.git
+cd face-segmentation_pytorch
 
 # create env using conda
 conda create -n face-segmentation python==3.9.18
-conda activate LivePortrait
+conda activate face-segmentation
 # install dependencies with pip
 pip install -r requirements.txt
 ```
